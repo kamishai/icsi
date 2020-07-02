@@ -2,7 +2,7 @@
 title: Dr. Caesar Casas Cabading
 date: '2016-11-08T00:00:00.000+00:00'
 description: ''
-email: maryanne@belkirkcollege.ca
+email: c.cabading@icsi.com.ph
 linkedin: ''
 role:
 - staff
