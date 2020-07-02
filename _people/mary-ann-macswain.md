@@ -1,6 +1,6 @@
 ---
-title: Mary-Ann MacSwain
-date: 2016-11-08 00:00:00 +0000
+title: Dr. Caesar Casas Cabading
+date: '2016-11-08T00:00:00.000+00:00'
 description: ''
 email: maryanne@belkirkcollege.ca
 linkedin: ''
@@ -8,15 +8,19 @@ role:
 - staff
 - advisor
 slug: ''
-sub_heading: Research Chair
+sub_heading: School Director
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
 thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
-layout: 'person'
+layout: person
+
 ---
+Together with Dr. Ignacio Arat and Dr. Luz Celine Cabading, they formed SISD in 1998. ICSI is another joint venture.
 
-Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
+Dr. Caesar Casas Cabading joined ICSI in 2008 as the School Principal.
 
-Mary-Ann received her B.A. (Honours) in Psychology from Dartmouth, where she is currently completing her MSc in Epidemiology.
+He holds a Ph.D. in Education from the University of Immaculate Concepcion in Davao City, Philippines.
 
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Dr. Caesar also received his Bachelor of Secondary Education Major in Mathematics and Bachelor of Science in Mathematics from Rizal Memorial Colleges in Davao City, Philippines.
+
+He has a diverse background in the teaching profession as he has taught in primary, secondary, and tertiary levels in the Philippines and in the USA (Gainesville, Florida and Guam, USA).
