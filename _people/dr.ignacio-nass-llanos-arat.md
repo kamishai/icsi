@@ -7,6 +7,5 @@ sub_heading: School Founder
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
