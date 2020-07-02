@@ -1,14 +1,23 @@
 ---
-title: About
+title: About Us
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+banner_image: "/uploads/2020/07/02/icsi-long.jpg"
+heading: About ICSI
+sub_heading: Shaping great minds and pure hearts
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: A dynamic school distinct for its inclusive, supportive, and international
+  approach to learning.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
+services:
+- heading: Senior High School
+  description: Grades 11 to 12
+  icon: ''
+- description: Grades 7 to 10
+  icon: ''
+  heading: Junior High School
+show_news: false
+partners: []
 menu:
   footer:
     identifier: _about
@@ -18,6 +27,29 @@ menu:
     weight: 2
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+# THE RIGHT CHOICE
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+At the International College of St. Ignatius de Loyola (ICSI), we provide a structured, well-planned academic environment to deliver a **_rigorous and innovative educational program_**.
+
+We offer...
+
+* Small Class Size and School Setting for Focused Learning
+* Innovative Math and Science Curricula
+* Intensive and Ongoing Progress Monitoring
+* Relevant and Enriching Extra-curricular Activities
+* Strong Parental and Community Involvement
+* Values-Oriented in Character Building
+
+# A CULTURE OF HIGH EXPECTATIONS
+
+At ICSI, we are working to ensure that learners develop the skills needed for life-long learning through acquisition of good planning habits and sound decision making.
+
+The academic environment is promoting **_high expectations_** from each learner in pursuit of high excellence through clear-cut academic goals for each subject course with constant assessment and evaluation and high parental involvement.
+
+Learners are expected to work closely with their teachers in order to fully cover the course work/textbook for each subject.
+
+# LOCAL AND INTERNATIONAL PREPARATIONS
+
+ICSI learners are from families with both local and international affiliations.
+
+The school administrators, with their experiences from local and international academic settings, strive to provide a school environment that will prepare learners to adapt and succeed in both the local and international arena, making them **_globally competitive_**.
