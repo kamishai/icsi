@@ -1,30 +1,22 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/07/02/untitled-drawing.png"
 layout: landing-page
-heading: We are ready for online education
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+heading: e-Learning prepared for SY 2020-2021!
+partners: []
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+- heading: Senior High School
+  description: Grades 11 to 12
+  icon: ''
+- heading: Junior High School
+  description: Grades 7 to 10
+  icon: ''
+sub_heading: International College of St. Ignatius de Loyola, Inc.
+textline: International College of St. Ignatius de Loyola, Inc.
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
