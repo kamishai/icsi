@@ -16,7 +16,7 @@ services:
 - description: Grades 7 to 10
   icon: ''
   heading: Junior High School
-show_news: false
+show_news: true
 partners: []
 menu:
   footer:
