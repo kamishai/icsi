@@ -9,8 +9,10 @@ menu:
   navigation:
     identifier: _posts
     weight: 4
+    title: Updates
   footer:
     identifier: _posts
     weight: 2
+    title: Updates
 
 ---
